@@ -1,6 +1,6 @@
 # Kenzie
 
-An client developed for the Software Engineer Full Stack job at Transfeera.
+An client developed for the Software Engineer Full Stack job at kenzie.
 
 This project has as main libraries Node.js, React + Vite, Typescript.
 
